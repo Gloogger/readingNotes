@@ -7,7 +7,7 @@ description:
 
 ## **Table of Content**
 * Philosophy
-  * [**世界观**](世界观.html)
+  * [**《世界观》**](世界观.html)
 
 
 ***
